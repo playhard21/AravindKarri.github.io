@@ -6,5 +6,5 @@ var typed = new Typed("#typed", {
     startDelay: 1000,
     smartBackspace: true,
     loop: true,
-    cursorChar: ''
+    cursorChar: '_'
 });
